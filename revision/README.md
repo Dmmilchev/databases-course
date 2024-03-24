@@ -1,5 +1,4 @@
 # Practice
-"Practice does not make perfect. Only perfect practice makes perfect." - Vince Lombardi
 
 I have a simple schedule of revision. 
 I learn something -> I revisit it 2 weeks later. 
